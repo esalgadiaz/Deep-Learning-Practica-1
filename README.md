@@ -4,7 +4,7 @@
 - Eduardo Salgado Díaz del Río. E-mail: eduardo.salgado@cunef.edu
 
 
-# Pracice of Deep learning in Python of Tensorflow dataset cifar100.
+# Practice of Deep learning in Python of Tensorflow dataset cifar100.
 
 # Enunciado: 
 
